@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="catalog.xslt"?>
-<catalog>
+<catalog id="customer">
 	<cd>
 		<title>Empire Burlesque</title>
 		<artist>Bob Dylan</artist>
