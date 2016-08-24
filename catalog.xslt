@@ -7,7 +7,7 @@
         <html>
             <head>
                 <head>
-                    <link rel="stylesheet" type="text/css" href="cataog.css"/>
+                    <link rel="stylesheet" type="text/css" href="catalog.css"/>
                 </head>
             </head>
             <body>
