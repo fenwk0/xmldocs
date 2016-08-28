@@ -13,6 +13,9 @@
     background-color: #f2f2f2;
 }
 
+#customers tr:nth-child(odd) {
+    background-color: lightgrey;
+}
 #customers tr:hover {
     background-color: #ddd;
 }
