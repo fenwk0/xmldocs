@@ -1,7 +1,7 @@
 # xmldocs
 Test XML docs with XSLT transformation
 
-To render the catalog file direvtly from github, use this URL.
+To render the catalog file directly from github, use this URL.
 
 https://raw.githubusercontent.com/fenwk0/xmldocs/master/catalog.xml
 
