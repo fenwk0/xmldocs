@@ -5,6 +5,8 @@ To render the catalog file directly from github, use this URL.
 
 https://raw.githubusercontent.com/fenwk0/xmldocs/master/catalog.xml
 
+https://rawgit.com/fenwk0/xmldocs/master/catalog.xml
+
 
 # Syntax - Before
 
